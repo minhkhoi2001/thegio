@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1300" viewBox="0 0 2000 1300">
+<g id="text">
+<text transform="translate(940 759)" font-size="10" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">NÚT GIAO<tspan x="0" y="10">TÂN VẠN</tspan></text>
+<text transform="translate(367 910) rotate(52.93)" font-size="9" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">ĐƯỜNG VÀNH ĐAI 2</text>
+</g>
+<g id="t-location">
+<text transform="translate(236 313)" font-size="18" fill="#d3d3d3" font-family="Arial, sans-serif" font-weight="700">TP. THỦ DẦU MỘT</text>
+<text transform="translate(172 895)" font-size="18" fill="#d3d3d3" font-family="Arial, sans-serif" font-weight="700">TP. HỒ CHÍ MINH</text>
+<text transform="translate(1387 336)" font-size="18" fill="#d3d3d3" font-family="Arial, sans-serif" font-weight="700">TP. BIÊN HÒA</text>
+<text transform="translate(143 442)" font-size="18" fill="#d3d3d3" font-family="Arial, sans-serif" font-weight="700">TP. THUẬN AN</text>
+</g>
+<g id="t-metro">
+<text transform="translate(1001 642) rotate(63.65)" font-size="9" fill="#d8cfc0" font-family="Arial, sans-serif" font-weight="700">GA S2.1</text>
+<text transform="translate(764 884)" font-size="9" fill="#d8cfc0" font-family="Arial, sans-serif" font-weight="700">GA BẾN XE SUỐI TIÊN</text>
+<text transform="translate(1173 548) rotate(-73.81)" font-size="9" fill="#d8cfc0" font-family="Arial, sans-serif" font-weight="700">GA S2.2</text>
+<text transform="matrix(0.31, -0.95, 0.95, 0.31, 1234.32, 360.44)" font-size="9" fill="#d8cfc0" font-family="Arial, sans-serif" font-weight="700">GA S2.3</text>
+<text transform="translate(736 726)" font-size="9" fill="#d8cfc0" font-family="Arial, sans-serif" font-weight="700">GA S0</text>
+<text transform="matrix(0.94, 0.33, -0.33, 0.94, 407.97, 446.9)" font-size="9" fill="#d8cfc0" font-family="Arial, sans-serif" font-weight="700">GA S1.1</text>
+<text transform="translate(496 469) rotate(23.26)" font-size="10" fill="#e5dccf" font-family="Arial, sans-serif" font-weight="700">METRO</text>
+<text transform="matrix(0.74, -0.67, 0.67, 0.74, 523.67, 1016.6)" font-size="10" fill="#e5dccf" font-family="Arial, sans-serif" font-weight="700">METRO</text>
+<text transform="translate(1198 469) rotate(-71.16)" font-size="10" fill="#e5dccf" font-family="Arial, sans-serif" font-weight="700">METRO</text>
+</g>
+<g id="t-street">
+<text transform="translate(1015 314) rotate(49.16)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">ĐẶNG VĂN TRƠN</text>
+<text transform="matrix(0.57, 0.82, -0.82, 0.57, 1312.8, 868.25)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">QUỐC LỘ 51</text>
+<text transform="translate(1224 561) rotate(-71.59)" font-size="8" fill="#bca37e" font-family="Arial, sans-serif" font-weight="700">XA LỘ HÀ NỘI</text>
+<text transform="translate(211 603) rotate(-10)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">QUỐC LỘ 1A</text>
+<text transform="translate(586 768) rotate(58.28)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">QUỐC LỘ 1A</text>
+<text transform="translate(454 518) rotate(20.97)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">DT 743B</text>
+<text transform="translate(707 522) rotate(61.79)" font-size="8" fill="#bca37e" font-family="Arial, sans-serif" font-weight="700">MỸ PHƯỚC - TÂN VẠN</text>
+<text transform="translate(939 837) rotate(76)" font-size="8" fill="#bca37e" font-family="Arial, sans-serif" font-weight="700">NGUYỄN XIỂN</text>
+<text transform="matrix(0.67, -0.75, 0.75, 0.67, 453.98, 771.66)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">PHẠM VĂN ĐỒNG</text>
+<text transform="translate(584 1030) rotate(-41)" font-size="8" fill="#bca37e" font-family="Arial, sans-serif" font-weight="700">XA LỘ HÀ NỘI</text>
+<text transform="matrix(0.3, -0.95, 0.95, 0.3, 744.82, 427.09)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">QUỐC LỘ 1K</text>
+<text transform="translate(575 677) rotate(-49.49)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">QUỐC LỘ 1K</text>
+<text transform="translate(1109 1064) rotate(0.44)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">CAO TỐC  LONG THÀNH - DẦU GIÂY</text>
+<text transform="translate(1276 765) rotate(54.7)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">CAO TỐC BIÊN HÒA - VŨNG TÀU</text>
+<text transform="translate(661 649) rotate(27.18)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">DT 743A</text>
+<text transform="translate(488 414) rotate(25.51)" font-size="8" fill="#bca37e" font-family="Arial, sans-serif" font-weight="700">VÀNH ĐAI 3</text>
+<text transform="translate(1023 1057) rotate(78.27)" font-size="8" fill="#bca37e" font-family="Arial, sans-serif" font-weight="700">VÀNH ĐAI 3</text>
+<text transform="translate(828 382) rotate(55.38)" font-size="8" fill="#c5f7ff" font-family="Arial, sans-serif" font-weight="700">BÙI HỮU NGHĨA</text>
+</g>
+<g id="t-bridge">
+<text transform="translate(924 407) rotate(-26.91)" font-size="8" fill="#467084" font-family="Arial, sans-serif" font-weight="700">CẦU BỬU HÒA</text>
+<text transform="translate(1036 690) rotate(-14.44)" font-size="8" fill="#467084" font-family="Arial, sans-serif" font-weight="700">CẦU ĐỒNG NAI</text>
+<text transform="translate(779 263) rotate(-72.95)" font-size="8" fill="#467084" font-family="Arial, sans-serif" font-weight="700" >CẦU HÓA AN</text>
+</g>
+<g id="white">
+<text transform="translate(1344 413)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KCN AMATA</text>
+<text transform="translate(1249 653)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">GO MART ĐỒNG NAI</text>
+<text transform="translate(1195 866)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">SÂN GOLF LONG THÀNH</text>
+<text transform="translate(1384 267)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">TRUNG TÂM HÀNH CHÍNH ĐỒNG NAI</text>
+<text transform="translate(989 517)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">CÙ LAO<tspan x="-3" y="10">TÂN VẠN</tspan></text>
+<text transform="translate(765 608)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KHU DU LỊCH<tspan x="3" y="10">THỦY CHÂU</tspan></text>
+<text transform="translate(695 155)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KHU DU LỊCH<tspan x="5" y="10">BỬU LONG</tspan></text>
+<text transform="translate(847 153)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">MEGA<tspan x="-5" y="10">MARKET</tspan></text>
+<text transform="translate(943 152)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">BỆNH VIỆN <tspan x="-14" y="10">QUỐC TẾ ĐỒNG NAI</tspan></text>
+<text transform="translate(1059 147)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">VINCOM<tspan x="-3" y="10" >ĐỒNG NAI</tspan></text>
+<text transform="translate(357 568)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">GA DĨ AN</text>
+<text transform="translate(976 245)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">GA BIÊN HÒA</text>
+<text transform="translate(510 619)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">BỆNH VIỆN<tspan x="-8" y="10" >ĐA KHOA DĨ AN</tspan></text>
+<text transform="translate(438 592)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">CHỢ DĨ AN</text>
+<text transform="translate(553 536)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">GO MART DĨ AN</text>
+<text transform="translate(640 747)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KCN LINH TRUNG</text>
+<text transform="translate(704 812)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">LÀNG ĐẠI HỌC</text>
+<text transform="translate(1004 852)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">CẢNG LONG BÌNH</text>
+<text transform="translate(718 947)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KHU DU LỊCH<tspan x="5" y="10">SUỐI TIÊN</tspan></text>
+<text transform="translate(540 880)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">BỆNH VIỆN ĐA KHOA</text>
+<text transform="translate(475 839)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">ĐẠI HỌC NGÂN HÀNG</text>
+<text transform="translate(470 924)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">ĐẠI HỌC SƯ PHẠM KỸ THUẬT</text>
+<text transform="translate(817 482)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">THCS<tspan x="-24" y="10">NGUYỄN VĂN TRỖI</tspan></text>
+<text transform="translate(711 1016)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KHU CÔNG NGHỆ CAO 1</text>
+<text transform="translate(635 1104)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">TRUNG TÂM<tspan x="-2" y="10">HÀNH CHÍNH </tspan><tspan x="0" y="20">TP THỦ ĐỨC</tspan></text>
+<text transform="translate(853 841)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">BẾN XE<tspan x="-16" y="10">MIỀN ĐÔNG MỚI</tspan></text>
+<text transform="translate(1287 590)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">BỆNH VIỆN SHING MARK</text>
+<text transform="translate(1100 1007)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KHU DU LỊCH SONG LONG</text>
+<text transform="translate(1145 799)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700"><tspan>CÔNG VIÊN NƯỚC</tspan><tspan x="6.78" y="10">AMAZING BAY</tspan></text>
+<text transform="translate(1000 780)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">CẢNG BÌNH DƯƠNG</text>
+<text transform="translate(1108 726)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">CẢNG ĐỒNG NAI</text>
+<text transform="translate(1316 492)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KCN BIÊN HÒA 2</text>
+<text transform="translate(1490 1060)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">SÂN BAY LONG THÀNH</text>
+<text transform="translate(850 687)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">KHU DÂN CƯ BÌNH AN</text>
+<text transform="translate(900 973)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">SÂN GOLF THỦ ĐỨC</text>
+<text transform="translate(1295 1000)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">AQUA CITY</text>
+<text transform="translate(1247 931)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">IZUMI CITY</text>
+<text transform="translate(1007 933)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">VINHOMES<tspan x="-4" y="10">GRAND PARK</tspan></text>
+<text transform="translate(1054 325)" font-size="8" fill="#fff" font-family="Arial, sans-serif" font-weight="700">AEON MALL<tspan x="4" y="10" >ĐỒNG NAI</tspan></text>
+</g>
+</svg>
